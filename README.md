@@ -1,6 +1,7 @@
-# my_card
-
-A new Flutter project.
+# Hello I am Mihir Waykole!!
+    This application is built in flutter to show your profile and contact information on one app
+    Here are Some images showing preview of the application
+    <img src="/assets/images/show.jpg"></img>
 
 ## Getting Started
 
