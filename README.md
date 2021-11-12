@@ -1,6 +1,6 @@
 # Hello I am Mihir Waykole!!
-    This application is built in flutter to show your profile and contact information on one app
-    Here are Some images showing preview of the application
+This application is built in flutter to show your profile and contact information on one app
+Here are Some images showing preview of the application
 <img src="/assets/images/show.jpg" alt="drawing" width="400"/>
 
 ## Getting Started
