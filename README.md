@@ -1,7 +1,7 @@
 # Hello I am Mihir Waykole!!
     This application is built in flutter to show your profile and contact information on one app
     Here are Some images showing preview of the application
-    ![Application Preview]("/assets/images/show.jpg")
+    ![Application Preview](/assets/images/show.jpg)
 
 ## Getting Started
 
